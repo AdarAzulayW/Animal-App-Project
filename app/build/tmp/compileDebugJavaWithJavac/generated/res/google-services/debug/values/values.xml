@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">592615097541-n2jpov32rak0t0r0o5e2jdq2m1jh4rh7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">592615097541</string>
+    <string name="google_api_key" translatable="false">AIzaSyBrvqLnW49lkW4DECu3M-57X43qchUiPyg</string>
+    <string name="google_app_id" translatable="false">1:592615097541:android:4a007d7e0fea6603d49cac</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBrvqLnW49lkW4DECu3M-57X43qchUiPyg</string>
+    <string name="google_storage_bucket" translatable="false">animals-app-c50f9.appspot.com</string>
+    <string name="project_id" translatable="false">animals-app-c50f9</string>
+</resources>
